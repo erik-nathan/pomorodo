@@ -15,7 +15,7 @@
 <br>
 
 <p align="center">
-  <img alt="pomodoro" src="img/pomorodo-img.png" width="100%">
+  <img alt="pomodoro" src="https://github.com/erik-nathan/pomorodo/blob/master/img/pomodoro-img.png?raw=true" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Essa é um site para minha apresentação, falando um pouco sobre mim, sobre meus conhecimentos e minhas redes socias!😉
+Essa é um site de sistema de Pomodoro de 25 minutos, criado com a intenção de aprimorar as técnicas de JavaScript!😉
 
 ## :memo: Licença
 
